@@ -23,6 +23,6 @@ describe('API Server', () => {
 
     console.log(response);
     expect(response.status).toEqual(500);
-    expect(response.)
-  })
+    expect(response.body.route).toEqual('/bad');
+  });
 });
