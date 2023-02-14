@@ -5,7 +5,7 @@ Project: Server Deployment Practice
 Author: Steve Gant
 
 Problem Domain
-Concise Description of why this app exists
+Basic server deployment
 
 Links and Resources
   - [GitHub Actions ci/cd](https://github.com/stevengant/server-deployment-practice/actions)
