@@ -16,7 +16,7 @@ app.get('/', logger, (req, res, next) => {
 
 app.get('/bad', (req, res, next) => {
   next('Houston, we have a problem');
-})
+});
 
 
 app.use('*', notFound);
