@@ -9,7 +9,7 @@ Basic server deployment
 
 Links and Resources
   - [GitHub Actions ci/cd](https://github.com/stevengant/server-deployment-practice/actions)
-  - [back-end server url](https://server-deployment-practice-gv7p.onrender.com)
+  - [back-end server url](https://stevegant-server-deployment-practice.onrender.com)
 
 
 Setup
